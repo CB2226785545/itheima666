@@ -1,5 +1,5 @@
 # itheima666
-## git@gitee.com:legendjaking/itheima666.git
+## https://github.com/CB2226785545/itheima666.git
 ```
   116  mkdir /d/运维学习/itheima666
   117  cd /d/运维学习/itheima666
